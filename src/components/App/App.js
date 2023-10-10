@@ -1,5 +1,5 @@
 import { ThemeProvider } from '@emotion/react';
-import { theme } from '../../theme/theme';
+import { theme } from '../../theme/standardTheme';
 import { Container } from './App.styled';
 import PageTitle from '../PageTitle/PageTitle';
 import EventBoard from '../EventBoard/EventBoard';

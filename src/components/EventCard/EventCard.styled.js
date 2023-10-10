@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { theme } from "../../theme/theme";
+import { theme } from "../../theme/standardTheme";
 
 export const Event = styled.div`
     padding: ${theme.spacing(2)};

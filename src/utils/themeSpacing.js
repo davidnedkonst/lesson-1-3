@@ -1,0 +1,1 @@
+export const themeSpacing = (spacing, value) => `${spacing * value}px`;
